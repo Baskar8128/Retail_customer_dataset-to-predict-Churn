@@ -12,6 +12,6 @@ clf__solver: ['lbfgs', 'liblinear']
 Solver is the algorithm used to optimize the logistic regression cost function. 'lbfgs': Good for large datasets, supports L2 penalty. 'liblinear': Works well for small datasets, supports L1 and L2 penalties
 
 Why tune these?
-1.Different penalties and solvers affect convergence and performance.
-2.C controls bias-variance tradeoff.
-3.Choosing the right combination improves accuracy and generalization.
+#Different penalties and solvers affect convergence and performance.
+#C controls bias-variance tradeoff.
+#Choosing the right combination improves accuracy and generalization.
