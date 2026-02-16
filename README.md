@@ -1,4 +1,6 @@
-##In this capstone, you will build an end‑to‑end ML classification pipeline to predict client churn using:
+# Retail_customer_dataset-to-predict-Churn
+
+#In this capstone, you will build an end‑to‑end ML classification pipeline to predict client churn using:
 Logistic Regression Decision Tree Random Forest Hyperparameter Tuning
 
 You will also:
@@ -22,9 +24,6 @@ What client segments have the highest churn?
 What actions would you recommend?
 
 · Examples: targeted retention for high‑risk segments, improving SLA or CSAT, onboarding improvements for new clients, etc.
-
-
-# Retail_customer_dataset-to-predict-Churn
 
 # Hyperparameter tuning grid for Logistic Regression in scikit-learn, typically used with GridSearchCV or RandomizedSearchCV.
 Explanation of Each Parameter
